@@ -1,3 +1,3 @@
 # git-training
-cambio realizado por Nikos
-cambio realizado por Richard
+- cambio realizado por Nikos. 
+- cambio realizado por Richard.
